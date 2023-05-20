@@ -1,4 +1,4 @@
-# M5 - BandKamp Generic View
+# Music-Records Generic View
 
 ## Instalação dos pacotes de teste
 
